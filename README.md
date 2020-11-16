@@ -16,7 +16,7 @@ Download the following files from the **data** folder:
 
 * Count_matrix.csv
 * Metadata.csv
-* RNAseq.rData
+
 
 **Note**: Please download the following files and place them in your`./data` directory.
 
