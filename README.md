@@ -23,7 +23,8 @@ Download the following files from the **data** folder:
 
 ## R and RStudio installation
 [R installation](https://cran.r-project.org/bin/windows/base/)
-[RStuio installation](https://rstudio.com/products/rstudio/download/)
+
+[RStudio installation](https://rstudio.com/products/rstudio/download/)
 
 In this analysis, we have to use a few packages to process our data. Run the code below in your local computer to install the packages for this workshop.
 
