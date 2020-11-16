@@ -29,6 +29,7 @@ In this analysis, we have to use a few packages to process our data. Run the cod
 
 install.packages(c("scales","pheatmap"))
 #*install.packages() function uses to install the packages from CRAN*
+
 install.packages("BiocManager") 
 BiocManager::install(c("DESeq2","org.Mm.eg.db", "vsn"))
 #*BiocManager::install() function uses to install the Bioconductor packages*
