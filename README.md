@@ -31,6 +31,7 @@ install.packages(c("scales","pheatmap"))
 #*install.packages() function uses to install the packages from CRAN*
 
 install.packages("BiocManager") 
+
 BiocManager::install(c("DESeq2","org.Mm.eg.db", "vsn"))
 #*BiocManager::install() function uses to install the Bioconductor packages*
 
